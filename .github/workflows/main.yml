@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python pip install -r requirements-dev.txt
+          python -m pip install -r requirements-dev.txt
 
 
       - name: Lint with flake8
