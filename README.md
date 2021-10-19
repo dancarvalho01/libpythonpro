@@ -8,7 +8,6 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![projeto-git CI](https://github.com/dancarvalho01/libpythonpro/actions/workflows/main.yml/badge.svg)](https://github.com/dancarvalho01/libpythonpro/actions/workflows/main.yml)
 [![Updates](https://pyup.io/repos/github/dancarvalho01/libpythonpro/shield.svg)](https://pyup.io/repos/github/dancarvalho01/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/dancarvalho01/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/dancarvalho01/libpythonpro/)
-
 Suportada versão 3 de Python
 
 Para instalar:
