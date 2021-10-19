@@ -9,6 +9,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 [![Updates](https://pyup.io/repos/github/dancarvalho01/libpythonpro/shield.svg)](https://pyup.io/repos/github/dancarvalho01/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/dancarvalho01/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/dancarvalho01/libpythonpro/)
 
+
 Suportada versão 3 de Python
 
 Para instalar:
